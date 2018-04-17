@@ -1,7 +1,3 @@
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
-
 // Genetic Algorithm, Evolving Shakespeare
 
 // A class to describe a psuedo-DNA, i.e. genotype
